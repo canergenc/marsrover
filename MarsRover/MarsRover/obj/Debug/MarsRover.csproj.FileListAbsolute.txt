@@ -1,0 +1,13 @@
+D:\Projeler\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+D:\Projeler\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+D:\Projeler\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.Form1.resources
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.Properties.Resources.resources
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.GenerateResource.cache
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+D:\Projeler\MarsRover\MarsRover\bin\Debug\MarsRover.Core.dll
+D:\Projeler\MarsRover\MarsRover\bin\Debug\MarsRover.Core.pdb
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cache
+D:\Projeler\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CopyComplete
